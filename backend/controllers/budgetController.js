@@ -1,4 +1,3 @@
-// /server/controllers/budgetController.js
 
 const Budget = require('../models/Budget');
 
