@@ -1,4 +1,4 @@
-# 💰 Expense Tracker App
+# SpendWise - Expense Tracker App
 
 A full-stack expense tracking application built with React, Node.js, Express, and MongoDB. Track your expenses, manage budgets, and visualize your spending with interactive charts.
 
